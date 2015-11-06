@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AsyncTaskDemo</string>
+
+    <string-array name="urls">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+        <item>Image 4</item>
+        <item>Image 5</item>
+        <item>Image 6</item>
+        <item>Image 7</item>
+    </string-array>
+
+    <string-array name="imageurls">
+        <item>http://cdn.appstorm.net/android.appstorm.net/authors/sonnetsixtynine/digital-art-windblown-tree.jpg</item>
+        <item>http://androidcentral.us/wp-content/uploads/2013/11/Vector-Wallpaper.jpg?fcb7bf</item>
+        <item>http://3.bp.blogspot.com/-Eh57hHxGsRw/UPw3LjkYBfI/AAAAAAAABFg/SzMfpefNL6s/s1600/Android_Wallpaper_by_fynx_x.png</item>
+        <item>http://loopele.com/wp-content/uploads/2014/03/free-wallpaper-app-for-android.jpg</item>
+        <item>http://randomwallpapers.net/android-version-apple-1920x1080-wallpaper111692.jpg</item>
+        <item>http://loopele.com/wp-content/uploads/2014/03/android-live-wallpaper.jpg</item>
+        <item>http://eoimages.gsfc.nasa.gov/images/imagerecords/73000/73751/world.topo.bathy.200407.3x5400x2700.png</item>
+    </string-array>
+</resources>
